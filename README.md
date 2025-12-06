@@ -57,6 +57,8 @@ Simple real-time iOS weather app using MVVM-C, SwiftUI + UIKit, and URLSession.
 
 - Weather fetched via OpenWeatherMap Geocoding + Weather endpoints.
 - Icons loaded from `https://openweathermap.org/img/wn/{code}@2x.png` with simple cache.
+
+  ## Test Cases
 ![Test1](https://github.com/user-attachments/assets/358b3cc2-7d93-4c97-ac06-9c2769fae6a3)
 ![Test2](https://github.com/user-attachments/assets/88b6e1eb-8eed-49fc-8e75-482a6fa13cb1)
 ![Test3](https://github.com/user-attachments/assets/da4475b4-d9ef-4ce8-8926-b978214efef4)
